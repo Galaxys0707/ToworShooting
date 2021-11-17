@@ -1,0 +1,1314 @@
+newmtl Real_Steel_Plate
+Ka 0 0 0
+Ns 1
+Ks 0.741176 0.870588 0.964706
+Kd 0.520777 0.600349 0.494257
+map_Kd Real_Steel_Plate.bmp
+newmtl Scratched_Paint_
+Ka 0 0 0
+Ns 8.16617
+Ks 0.996078 0.815686 0.603922
+Kd 0.403463 0.32002 0.263848
+map_Kd Scratched_Paint__1.bmp
+newmtl M110CAMU0
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU0_2.bmp
+newmtl Brushed_silver0
+Ka 0 0 0
+Ns 3.32012
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Brushed_silver0_3.bmp
+newmtl M110CAMU1
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU1_4.bmp
+newmtl Brushed_silver1
+Ka 0 0 0
+Ns 3.32012
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Brushed_silver1_5.bmp
+newmtl Metallic_Varnis0
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis0_6.bmp
+newmtl Metallic_Varnis1
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis1_7.bmp
+newmtl Steel_stained_by
+Ka 0 0 0
+Ns 1
+Ks 0.972549 0.92549 0.615686
+Kd 0.971545 1 1
+map_Kd Steel_stained_by_8.bmp
+newmtl M110matr0
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.546087 0.494536 0.438704
+map_Kd M110matr0_9.bmp
+newmtl Techno_4___Dirt0
+Ka 0 0 0
+Ns 1
+Ks 1 1 1
+Kd 0.294118 0.294118 0.294118
+map_Kd Techno_4___Dirt0_10.bmp
+newmtl Redwood
+Ka 0 0 0
+Ns 8.16617
+Ks 0.52549 0.52549 0.52549
+Kd 0.351787 0.245227 0.21545
+map_Kd Redwood_11.bmp
+newmtl Scratched_Paint
+Ka 0 0 0
+Ns 8.16617
+Ks 0.996078 0.815686 0.603922
+Kd 0.273569 0.295462 0.316571
+map_Kd Scratched_Paint_12.bmp
+newmtl M110CAMU2
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU2_13.bmp
+newmtl Techno_4___Dirt1
+Ka 0 0 0
+Ns 1
+Ks 1 1 1
+Kd 0.294118 0.294118 0.294118
+map_Kd Techno_4___Dirt1_14.bmp
+newmtl M110fir2
+Ka 0 0 0
+Ns 403.429
+Ks 1 1 1
+Kd 0.580392 0.145098 0.0313725
+map_Kd M110fir2_15.bmp
+newmtl Metallic_Varnis2
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis2_16.bmp
+newmtl Stained_silver
+Ka 0 0 0
+Ns 6.04965
+Ks 1 0.788235 0.635294
+Kd 0.702766 0.702766 0.702766
+map_Kd Stained_silver_17.bmp
+newmtl Metallic_Varnis3
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis3_18.bmp
+newmtl M110matr1
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.546087 0.494536 0.438704
+map_Kd M110matr1_19.bmp
+newmtl M110esc10
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.804469 0.462801 0.462731
+map_Kd M110esc10_20.bmp
+newmtl M110esc11
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.804469 0.462801 0.462731
+map_Kd M110esc11_21.bmp
+newmtl M110matr2
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.546087 0.494536 0.438704
+map_Kd M110matr2_22.bmp
+newmtl M110CAMU3
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU3_23.bmp
+newmtl Pottery_clay0
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay0_24.bmp
+newmtl Dark_smoked_gla0
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.498039 0.498039 0.498039
+map_Kd Dark_smoked_gla0_25.bmp
+newmtl Dark_smoked_gla1
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.498039 0.498039 0.498039
+map_Kd Dark_smoked_gla1_26.bmp
+newmtl Pottery_clay1
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay1_27.bmp
+newmtl Pottery_clay2
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay2_28.bmp
+newmtl Pewter0
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter0_29.bmp
+newmtl Pottery_clay3
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay3_30.bmp
+newmtl Pottery_clay4
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay4_31.bmp
+newmtl Pewter1
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter1_32.bmp
+newmtl Pottery_clay5
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay5_33.bmp
+newmtl M110CAMU4
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU4_34.bmp
+newmtl M110cru30
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.692672 0.692643 0.692156
+map_Kd M110cru30_35.bmp
+newmtl M110cru31
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.692672 0.692643 0.692156
+map_Kd M110cru31_36.bmp
+newmtl Brushed_silver2
+Ka 0 0 0
+Ns 3.32012
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Brushed_silver2_37.bmp
+newmtl Brushed_silver3
+Ka 0 0 0
+Ns 3.32012
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Brushed_silver3_38.bmp
+newmtl Pewter2
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.321569 0.321569 0.321569
+map_Kd Pewter2_39.bmp
+newmtl Pewter3
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.321569 0.321569 0.321569
+map_Kd Pewter3_40.bmp
+newmtl M110CAMU5
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU5_41.bmp
+newmtl M110CAMU6
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU6_42.bmp
+newmtl M110CAMU7
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU7_43.bmp
+newmtl Techno_4___Dirt2
+Ka 0 0 0
+Ns 1
+Ks 1 1 1
+Kd 0.294118 0.294118 0.294118
+map_Kd Techno_4___Dirt2_44.bmp
+newmtl Techno_4___Dirt3
+Ka 0 0 0
+Ns 1
+Ks 1 1 1
+Kd 0.294118 0.294118 0.294118
+map_Kd Techno_4___Dirt3_45.bmp
+newmtl M110CAMU8
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU8_46.bmp
+newmtl M110CAMU9
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU9_47.bmp
+newmtl M110CAMU10
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU10_48.bmp
+newmtl M110CAMU11
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU11_49.bmp
+newmtl M110CAMU12
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU12_50.bmp
+newmtl M110CAMU13
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU13_51.bmp
+newmtl M110CAMU14
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU14_52.bmp
+newmtl Chrome
+Ka 0 0 0
+Ns 114.434
+Ks 1 1 1
+Kd 0.681949 0.720702 0.73147
+map_Kd Chrome_53.bmp
+newmtl M110rue10
+Ka 0 0 0
+Ns 1.06184
+Ks 0.980392 0.980392 0.980392
+Kd 0.0257253 0.0195134 0.00860712
+map_Kd M110rue10_54.bmp
+newmtl M110rue11
+Ka 0 0 0
+Ns 1.06184
+Ks 0.980392 0.980392 0.980392
+Kd 0.0257253 0.0195134 0.00860712
+map_Kd M110rue11_55.bmp
+newmtl M110CAMU15
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU15_56.bmp
+newmtl M110chai1
+Ka 0 0 0
+Ns 11.0232
+Ks 0.898039 0.898039 0.898039
+Kd 0.121569 0.0823529 0.0431373
+map_Kd M110chai1_57.bmp
+newmtl Dark_smoked_gla2
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.498039 0.498039 0.498039
+map_Kd Dark_smoked_gla2_58.bmp
+newmtl Dark_smoked_gla3
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.498039 0.498039 0.498039
+map_Kd Dark_smoked_gla3_59.bmp
+newmtl M110CAMU16
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU16_60.bmp
+newmtl Pottery_clay6
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay6_61.bmp
+newmtl M110rued0
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued0_62.bmp
+newmtl M110rued1
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued1_63.bmp
+newmtl Pottery_clay7
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay7_64.bmp
+newmtl M110rued2
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued2_65.bmp
+newmtl Pottery_clay8
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay8_66.bmp
+newmtl M110rued3
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued3_67.bmp
+newmtl Pottery_clay9
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay9_68.bmp
+newmtl M110rued4
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued4_69.bmp
+newmtl Pottery_clay10
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay10_70.bmp
+newmtl Chromite_Nodu0
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu0_71.bmp
+newmtl Chromite_Nodu1
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu1_72.bmp
+newmtl Chromite_Nodu2
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu2_73.bmp
+newmtl Chromite_Nodu3
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu3_74.bmp
+newmtl Chromite_Nodu4
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu4_75.bmp
+newmtl Chromite_Nodu5
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu5_76.bmp
+newmtl Chromite_Nodu6
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu6_77.bmp
+newmtl Chromite_Nodu7
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu7_78.bmp
+newmtl Chromite_Nodu8
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu8_79.bmp
+newmtl Chromite_Nodu9
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu9_80.bmp
+newmtl Chromite_Nodu10
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu10_81.bmp
+newmtl Chromite_Nodu11
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu11_82.bmp
+newmtl Chromite_Nodu12
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu12_83.bmp
+newmtl Chromite_Nodu13
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu13_84.bmp
+newmtl Chromite_Nodu14
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu14_85.bmp
+newmtl Chromite_Nodu15
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu15_86.bmp
+newmtl Chromite_Nodu16
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu16_87.bmp
+newmtl Chromite_Nodu17
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu17_88.bmp
+newmtl Chromite_Nodu18
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu18_89.bmp
+newmtl Chromite_Nodu19
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu19_90.bmp
+newmtl Chromite_Nodu20
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu20_91.bmp
+newmtl Chromite_Nodu21
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu21_92.bmp
+newmtl Chromite_Nodu22
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu22_93.bmp
+newmtl Chromite_Nodu23
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu23_94.bmp
+newmtl Chromite_Nodu24
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu24_95.bmp
+newmtl Chromite_Nodu25
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu25_96.bmp
+newmtl Chromite_Nodu26
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu26_97.bmp
+newmtl Chromite_Nodu27
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu27_98.bmp
+newmtl Chromite_Nodu28
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu28_99.bmp
+newmtl Chromite_Nodu29
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu29_100.bmp
+newmtl Chromite_Nodu30
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu30_101.bmp
+newmtl Chromite_Nodu31
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu31_102.bmp
+newmtl Chromite_Nodu32
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu32_103.bmp
+newmtl Chromite_Nodu33
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu33_104.bmp
+newmtl Chromite_Nodu34
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu34_105.bmp
+newmtl Chromite_Nodu35
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu35_106.bmp
+newmtl Chromite_Nodu36
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu36_107.bmp
+newmtl Chromite_Nodu37
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu37_108.bmp
+newmtl Chromite_Nodu38
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu38_109.bmp
+newmtl Chromite_Nodu39
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu39_110.bmp
+newmtl Chromite_Nodu40
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu40_111.bmp
+newmtl Chromite_Nodu41
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu41_112.bmp
+newmtl Chromite_Nodu42
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu42_113.bmp
+newmtl Chromite_Nodu43
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu43_114.bmp
+newmtl Chromite_Nodu44
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu44_115.bmp
+newmtl Chromite_Nodu45
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu45_116.bmp
+newmtl Chromite_Nodu46
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu46_117.bmp
+newmtl Chromite_Nodu47
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu47_118.bmp
+newmtl Chromite_Nodu48
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu48_119.bmp
+newmtl Chromite_Nodu49
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu49_120.bmp
+newmtl Chromite_Nodu50
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu50_121.bmp
+newmtl Chromite_Nodu51
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu51_122.bmp
+newmtl Chromite_Nodu52
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu52_123.bmp
+newmtl Chromite_Nodu53
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu53_124.bmp
+newmtl Chromite_Nodu54
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu54_125.bmp
+newmtl Chromite_Nodu55
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu55_126.bmp
+newmtl Chromite_Nodu56
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu56_127.bmp
+newmtl Chromite_Nodu57
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu57_128.bmp
+newmtl Chromite_Nodu58
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu58_129.bmp
+newmtl Chromite_Nodu59
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu59_130.bmp
+newmtl Chromite_Nodu60
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu60_131.bmp
+newmtl Chromite_Nodu61
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu61_132.bmp
+newmtl Chromite_Nodu62
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu62_133.bmp
+newmtl Chromite_Nodu63
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu63_134.bmp
+newmtl Chromite_Nodu64
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu64_135.bmp
+newmtl Chromite_Nodu65
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu65_136.bmp
+newmtl Chromite_Nodu66
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu66_137.bmp
+newmtl Chromite_Nodu67
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu67_138.bmp
+newmtl Chromite_Nodu68
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu68_139.bmp
+newmtl Chromite_Nodu69
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu69_140.bmp
+newmtl Chromite_Nodu70
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu70_141.bmp
+newmtl Chromite_Nodu71
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu71_142.bmp
+newmtl Chromite_Nodu72
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu72_143.bmp
+newmtl Chromite_Nodu73
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu73_144.bmp
+newmtl Chromite_Nodu74
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu74_145.bmp
+newmtl Chromite_Nodu75
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu75_146.bmp
+newmtl Chromite_Nodu76
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu76_147.bmp
+newmtl Chromite_Nodu77
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu77_148.bmp
+newmtl Chromite_Nodu78
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu78_149.bmp
+newmtl Chromite_Nodu79
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu79_150.bmp
+newmtl Chromite_Nodu80
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu80_151.bmp
+newmtl Chromite_Nodu81
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu81_152.bmp
+newmtl Chromite_Nodu82
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu82_153.bmp
+newmtl Chromite_Nodu83
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu83_154.bmp
+newmtl Chromite_Nodu84
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu84_155.bmp
+newmtl Chromite_Nodu85
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu85_156.bmp
+newmtl Chromite_Nodu86
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu86_157.bmp
+newmtl Chromite_Nodu87
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu87_158.bmp
+newmtl Chromite_Nodu88
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu88_159.bmp
+newmtl Chromite_Nodu89
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu89_160.bmp
+newmtl Chromite_Nodu90
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu90_161.bmp
+newmtl Chromite_Nodu91
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu91_162.bmp
+newmtl Chromite_Nodu92
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu92_163.bmp
+newmtl Chromite_Nodu93
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu93_164.bmp
+newmtl Chromite_Nodu94
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu94_165.bmp
+newmtl Chromite_Nodu95
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu95_166.bmp
+newmtl Chromite_Nodu96
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu96_167.bmp
+newmtl Chromite_Nodu97
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu97_168.bmp
+newmtl Chromite_Nodu98
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu98_169.bmp
+newmtl Chromite_Nodu99
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu99_170.bmp
+newmtl Chromite_Nodu100
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu100_171.bmp
+newmtl Chromite_Nodu101
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu101_172.bmp
+newmtl Chromite_Nodu102
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu102_173.bmp
+newmtl Chromite_Nodu103
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu103_174.bmp
+newmtl Chromite_Nodu104
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu104_175.bmp
+newmtl Chromite_Nodu105
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu105_176.bmp
+newmtl Chromite_Nodu106
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu106_177.bmp
+newmtl Chromite_Nodu107
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu107_178.bmp
+newmtl Chromite_Nodu108
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu108_179.bmp
+newmtl Chromite_Nodu109
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu109_180.bmp
+newmtl Chromite_Nodu110
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu110_181.bmp
+newmtl Chromite_Nodu111
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu111_182.bmp
+newmtl Chromite_Nodu112
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu112_183.bmp
+newmtl Chromite_Nodu113
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu113_184.bmp
+newmtl Chromite_Nodu114
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu114_185.bmp
+newmtl Chromite_Nodu115
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu115_186.bmp
+newmtl Chromite_Nodu116
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu116_187.bmp
+newmtl Chromite_Nodu117
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu117_188.bmp
+newmtl Chromite_Nodu118
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu118_189.bmp
+newmtl Chromite_Nodu119
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu119_190.bmp
+newmtl Chromite_Nodu120
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu120_191.bmp
+newmtl Chromite_Nodu121
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu121_192.bmp
+newmtl Chromite_Nodu122
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu122_193.bmp
+newmtl Chromite_Nodu123
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu123_194.bmp
+newmtl Chromite_Nodu124
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu124_195.bmp
+newmtl Chromite_Nodu125
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu125_196.bmp
+newmtl Chromite_Nodu126
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu126_197.bmp
+newmtl Chromite_Nodu127
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu127_198.bmp
+newmtl Chromite_Nodu128
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu128_199.bmp
+newmtl Chromite_Nodu129
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu129_200.bmp
+newmtl Chromite_Nodu130
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu130_201.bmp
+newmtl Chromite_Nodu131
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu131_202.bmp
+newmtl Chromite_Nodu132
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu132_203.bmp
+newmtl Chromite_Nodu133
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu133_204.bmp
+newmtl Chromite_Nodu134
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu134_205.bmp
+newmtl Chromite_Nodu135
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu135_206.bmp
+newmtl Chromite_Nodu136
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu136_207.bmp
+newmtl Chromite_Nodu137
+Ka 0 0 0
+Ns 8.16617
+Ks 0.980392 0.898039 0.678431
+Kd 0.28922 0.289291 0.236999
+map_Kd Chromite_Nodu137_208.bmp
+newmtl M110rued5
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued5_209.bmp
+newmtl M110CAMU17
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU17_210.bmp
+newmtl M110rued6
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued6_211.bmp
+newmtl M110CAMU18
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU18_212.bmp
+newmtl M110rued7
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued7_213.bmp
+newmtl M110CAMU19
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU19_214.bmp
+newmtl M110rued8
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued8_215.bmp
+newmtl M110CAMU20
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU20_216.bmp
+newmtl M110CAMU21
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.541177 0.529412 0.4
+map_Kd M110CAMU21_217.bmp
+newmtl M110rued9
+Ka 0 0 0
+Ns 1.06184
+Ks 1 1 1
+Kd 0.0371626 0.0283151 0.0125344
+map_Kd M110rued9_218.bmp

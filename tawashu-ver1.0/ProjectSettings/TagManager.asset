@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tower
+  - Barricade
+  - EnemyBullet
+  - ShootingBullet
+  - BossCore
+  - SubCamera
+  - Ground
+  - Enemy
+  - E_Heal
+  - BulletManager
+  - DefenceCamera
+  - AttackCamera
+  - Mana
+  - E_Buff
+  - AttackPlayer
+  - UI
+  - ChooseUI
+  - AttackButton
+  - DefenceButton
+  - DefencePlayer
+  - barricade
+  - P_Bullet
+  - E_Bullet
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TargetTex
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

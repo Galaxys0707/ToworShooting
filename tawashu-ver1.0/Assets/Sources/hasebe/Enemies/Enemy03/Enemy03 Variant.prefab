@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5521218378574007038
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 777147712302666056, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 777147712302666056, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.462
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121704, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 84d1ef127df188e4e93c9c0e4913c21c, type: 2}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -32.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121706, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121710, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: SkillAttackObject
+      value: 
+      objectReference: {fileID: 777611449482083531, guid: f9fad6835f0f3434282e470ba77f60a5,
+        type: 3}
+    - target: {fileID: 8852374071802121710, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: SkillBuffObject
+      value: 
+      objectReference: {fileID: 1032760727923042, guid: 21b160f6ac432494db172d594e432ad7,
+        type: 3}
+    - target: {fileID: 8852374071802121710, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121710, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: HP_MAX
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121711, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy03 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852374071802121711, guid: 13608e3ad995fdd45ada0013a97d4523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13608e3ad995fdd45ada0013a97d4523, type: 3}
